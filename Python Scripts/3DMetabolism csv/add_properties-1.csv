@@ -1,0 +1,9 @@
+Property Label,Datatype,Property Description
+instance of,wikibase-item,rdf type
+ID,string,The QID of equivalent Q or P number in wikidata
+reaction within,wikibase-item,A predicate intended for biological reactions to relate it to its respected biological pathway  reaction
+has part,wikibase-item,a predicate intended to classify the subject's children objects
+part of,wikibase-item,a predicate intended to relate itself to its parent object
+chemical formula,wikibase-item,a predicate intended to relate the chemical compound to the chemical formula
+contain reaction,wikibase-item,a predicate intended to identify the reactants involed within the subject
+contain reactant,wikibase-item,a predicate intended to identify the reactants involved within the subject

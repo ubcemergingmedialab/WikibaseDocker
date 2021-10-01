@@ -1,0 +1,19 @@
+Label,P1:wikibase-item
+Glycolysis,Q1
+Regulation of Glucokinase by Glucokinase Regulatory Protein,Q2
+"HK1,2,3,GCK phosphorylate Glc to form G6P",Q2
+ADPGK:Mg2+ phosphorylates Glc to G6P,Q2
+alpha-D-glucose 6-phosphate <=> D-fructose 6-phosphate,Q2
+"GNPDA1,2 hexamers deaminate GlcN6P to Fru(6)P",Q2
+"D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP",Q2
+"D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate",Q2
+dihydroxyacetone phosphate <=> D-glyceraldehyde 3-phosphate,Q2
+"D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+",Q2
+"BPGM dimer isomerises 1,3BPG to 2,3BPG",Q2
+"PGM2L1:Mg2+ phosphorylates G6P to G1,6BP",Q2
+"1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ATP",Q2
+PGP:Mg2+ dimer hydrolyses 3PG to glycerol,Q2
+3-Phospho-D-glycerate <=> 2-Phospho-D-glycerate,Q2
+2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O,Q2
+phosphoenolpyruvate + ADP => pyruvate + ATP,Q2
+"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",Q2

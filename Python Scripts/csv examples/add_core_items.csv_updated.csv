@@ -1,0 +1,6 @@
+Label,Description,QID
+agent,Is a entity ,Q314
+person,Is a person,Q315
+oral history transcript,A oral history transcript,Q316
+project,A semlab project class,Q317
+Linked Jazz,A specific semlab project,Q318
